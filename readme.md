@@ -17,7 +17,7 @@ Welcome to the Netflix Clone project! This project is a simple front-end impleme
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/netflix-clone.git`
+1. Clone the repository: `git clone https://github.com/CoderrShyam/netflix.git`
 2. Open the `index.html` file in your preferred browser to start using the Netflix Clone.
 3. Explore the vast library of movies and TV shows.
 4. Use the search functionality to find specific content.
